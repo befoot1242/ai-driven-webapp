@@ -1,0 +1,9 @@
+{
+  "name": "ai-driven-webapp",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "trace": "node scripts/trace.mjs",
+    "trace:check": "node scripts/trace.mjs --check"
+  }
+}
